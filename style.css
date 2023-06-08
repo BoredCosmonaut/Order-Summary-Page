@@ -1,4 +1,4 @@
-body {
+body,html {
     background-image: url("images/pattern-background-desktop.svg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ body {
 }
 
 @media (max-width: 500px) {
-    .body {
+    body,html {
         background-image: url("images/pattern-background-mobile.svg");
         background-size: cover;
         background-repeat: no-repeat;
