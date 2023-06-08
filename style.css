@@ -9,7 +9,7 @@ body {
 }
 
 .card {
-    margin: 100px auto;
+    margin: 0 auto;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
