@@ -2,15 +2,6 @@
 
   This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
 
-* Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-
 * Overview
   - The challenge
      Users should be able to:
